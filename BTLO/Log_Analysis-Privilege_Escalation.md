@@ -5,6 +5,7 @@
 **Category:** CTF Like  
 **Date:** 2025-10-01  
 **Difficulty:** Easy<br>
+**OS:** Windows/Linux
 **Link:** https://blueteamlabs.online/home/challenge/log-analysis-privilege-escalation-65ffe8df12
 
 ---
