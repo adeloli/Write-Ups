@@ -18,7 +18,8 @@ A server with sensitive data was accessed by an attacker and the files were post
 ## Bash History Analysis
 
 Descargamos el archivo que nos proporcionan con el historial de comandos ejecutados en el servidor.
-
+<figure><img src="./assets/images/descarga.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="./assets/images/unzip.png" alt=""><figcaption></figcaption></figure>
 A través de ellos podemos reconstruir las acciones del atacante:
 
 ```bash
