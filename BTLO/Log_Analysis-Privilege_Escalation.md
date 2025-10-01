@@ -4,7 +4,7 @@
 **Lab:** Log Analysis / Privilege Escalation  
 **Category:** CTF Like  
 **Date:** 2025-10-01  
-**Difficulty:** Easy
+**Difficulty:** Easy<br>
 **OS:** Windows/Linux<br>
 **Link:** https://blueteamlabs.online/home/challenge/log-analysis-privilege-escalation-65ffe8df12
 
